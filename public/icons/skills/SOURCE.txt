@@ -1,0 +1,2 @@
+Technology logos from Devicon: https://github.com/devicons/devicon
+Downloaded from the master branch. Brand names and logos belong to their respective owners.
